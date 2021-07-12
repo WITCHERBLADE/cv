@@ -1,0 +1,132 @@
+body{
+
+color: #40514E;
+
+
+  text-align: center;
+}
+.firstcon{
+  background-color:  #DF5E5E;
+  position:relative;
+  padding-top: 100px;
+
+}
+.one{
+  position: absolute;
+left: 1200px;
+}
+.second{
+  position: absolute;
+
+}
+.third{
+  height: 800px;
+}
+.secondcon{
+margin: 100px 0 0 0 ;
+
+
+}
+ hr{
+   border: dotted yellow;
+   border-bottom: none;
+   width: 4%;
+margin: 50px auto;
+ }
+.four{
+  border-radius: 100%;
+}
+
+.five{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+}
+h1
+{
+  font-family: 'Sacranento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+p{
+  font-family: 'Englebert', sans-serif;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  padding: 20px;
+}
+.thirdcon{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: right;
+line-height: 2;
+
+}
+.six{
+  width: 10%;
+  float: right;
+
+  position: absolute;
+  right: 300px;
+
+}
+.sixcon{
+  text-align: left;
+margin: auto 200px auto 300px;
+
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc34ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc34ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc34ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc34ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc34ad);
+  text-decoration: none;
+}
+.six{
+  border-radius: 100%;
+}
+.sevencon{
+    background-color:  #DF5E5E;
+  margin: 50px auto 50px auto;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
